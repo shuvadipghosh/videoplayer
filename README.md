@@ -1,3 +1,3 @@
 # videoplayer
 
-created by shuvadip ghosh and shuvam ghosh for mar activity
+created by shuvadip ghosh  for mar activity
